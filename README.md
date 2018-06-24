@@ -1,0 +1,1 @@
+Counter for https://lichess.org/team/variants-addiction-tournaments
